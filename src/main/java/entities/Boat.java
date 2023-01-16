@@ -107,6 +107,8 @@ public class Boat {
 
     public void setOwners(List<Owner> owners) {
         this.owners = owners;
+
+//hello this is not a test
     }
 */
     public List<Harbour> getHarbours() {
